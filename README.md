@@ -46,7 +46,7 @@ Translations:
 - How the workplaces look like: separate rooms, open space?
 - Are you using any time tracjing system?
 
-# Distant work
+# Remote work
 - Do I need to go to the office, how often?
 - What are the conditions for registration?
 - Could the company help with the workspace: office chair, desk, etc.?
