@@ -42,9 +42,9 @@ Translations:
 - What is the work schedule, how does the company relate to overtimes?
 
 # Office work
-- Where is the office? What kind of logistics do you have?
-- How the workplaces look like: separate rooms, open space?
-- Are you using any time tracjing system?
+- Where is the office location? What kind of logistics it has?
+- How the workplaces look like: separate rooms, open space, etc.?
+- Are you using time tracking system?
 
 # Remote work
 - Do I need to go to the office, how often?
