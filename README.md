@@ -25,9 +25,12 @@ Translations:
 - Is there a specific approach in development, for example: Agile, XP, etc.?
 - What does a typical %position_name% workday look like?
 - Is there a staff turnover in the teams?
-- What technologies are used in the company and how you come to that solutions?
 - Please specify current technological challenges (legacy stack, transition to a new engine or to a new nosql database)?
 - Please specify business challenges?
+
+# Technologies 
+- What technologies are used in the company and how you come to that solutions?
+- How are technical issues resolved?
 
 # Company
 - How is the company's development plan/strategy is look like?
