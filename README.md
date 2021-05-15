@@ -55,6 +55,7 @@ Translations:
 - Does the position provide any KPI bonuses?
 - Are there any bonuses, options, retention programs?
 
-# Holidays and sick leave
+# Vavations and sick leave
 - How is sick leave paid, the number of "personal" days?
 - How many vacation days?
+- What kind of health insurance does the company offer?
